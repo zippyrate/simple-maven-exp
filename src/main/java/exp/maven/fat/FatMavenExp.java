@@ -1,7 +1,7 @@
 
-package exp.maven.simple;
+package exp.maven.fat;
 
-public class SimpleExp
+public class FatMavenExp
 {
 		public static void main(String [] argc)
 		{
