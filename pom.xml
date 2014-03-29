@@ -33,8 +33,6 @@
 					<archive> 
 						<manifest>
 							<mainClass>exp.maven.fat.FatMavenExp</mainClass>
-							<addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-							<addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
 						</manifest>
 					</archive>
 					<descriptorRefs>
