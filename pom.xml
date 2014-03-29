@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>exp.simple-maven</groupId>
-  <artifactId>simple-exp</artifactId>
+  <groupId>zippyrate-exp</groupId>
+  <artifactId>simple-maven-exp</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>Simple Mavan Java Project</name>
+  <name>Simple Maven Java Project</name>
 
   <properties>
 
@@ -33,7 +33,7 @@
         <configuration>
 					<archive>
 						<manifest>
-							<mainClass>exp.simple.SimpleExp</mainClass>
+							<mainClass>exp.maven.simple.SimpleExp</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

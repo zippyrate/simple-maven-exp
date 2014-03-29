@@ -1,5 +1,5 @@
 
-package exp.simple;
+package exp.maven.simple;
 
 public class SimpleExp
 {
